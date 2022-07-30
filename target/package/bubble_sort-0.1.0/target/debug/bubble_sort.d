@@ -1,0 +1,1 @@
+C:\Users\adria\Documents\Other\Rust-Sorting-Algorythms\target\package\bubble_sort-0.1.0\target\debug\bubble_sort.exe: C:\Users\adria\Documents\Other\Rust-Sorting-Algorythms\target\package\bubble_sort-0.1.0\src\main.rs

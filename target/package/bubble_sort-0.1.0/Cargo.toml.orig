@@ -1,0 +1,16 @@
+[package]
+name = "bubble_sort"
+version = "0.1.0"
+edition = "2021"
+license = "The MIT License"
+license-file = "LICENSE"
+description = "Sorting algorithms for vectors."
+homepage = "https://gravitysause.github.io/"
+repository = "https://github.com/Gravitysause/Rust-Sorting-Algorythms"
+readme = "README.md"
+keywords = ["sorting"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
